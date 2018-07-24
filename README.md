@@ -1,3 +1,3 @@
-#Personal portfolio
+#Personal portfolio - old version
 
-visit http://radosnie.co/
+
